@@ -22,7 +22,8 @@ The design language uses warm vegetarian branding colors — Forest Green, Saffr
 🔗 Live Demo
 > Deploy the site and paste your URL here.
 ```
-https://your-site-name.netlify.app
+https://down-town-cafe-phi.vercel.app/
+
 ```
 ---
 ✨ Features
